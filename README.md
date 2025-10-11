@@ -50,9 +50,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <sub>✨ Feito com dedicação por Pedro Rodrigues • Sempre aprendendo e evoluindo ✨</sub>
-</p>
