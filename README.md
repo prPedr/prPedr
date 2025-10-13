@@ -26,8 +26,6 @@
 - ⚙️ Atualmente desenvolvendo um **sistema para MEIs**, com controle financeiro e emissão de notas  
 - 🚀 Foco principal em **Node.js**, **TypeScript** e **arquiteturas escaláveis**  
 - 🌱 Aprendendo **Python**, para automações de tarefas  
-- 🧩 Entusiasta de código limpo, performance e soluções simples que funcionam  
-
 ---
 
 ### 📊 Estatísticas
