@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Pedro Rodrigues</h1>
+<h1 align="center">👋 Olá, eu sou o Pedro</h1>
 
 <p align="center">
   Desenvolvedor backend focado em <strong>Node.js</strong> e <strong>TypeScript</strong>.<br/>
