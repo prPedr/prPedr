@@ -30,7 +30,7 @@
 
 <div align="center">
   <h2>📊 Estatísticas</h2>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=prPedr&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats"/>
+  <img height="160" src="https://github-readme-stats.prasanna1405.vercel.app/api?username=prPedr&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prPedr&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 </div>
 
