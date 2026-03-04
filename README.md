@@ -1,26 +1,20 @@
-<h1 align="center">👋 Olá, eu sou o Pedro</h1>
+# 👋 Olá, eu sou o Pedro
 
-<p align="center">
-  Desenvolvedor <strong>Full-Stack</strong> com foco em <strong>TypeScript</strong> e <strong>Node.js</strong>.<br/>
-  Criando soluções digitais práticas e escaláveis para pequenos negócios e MEIs.
-</p>
+Desenvolvedor **Full-Stack** com foco em **TypeScript** e **Node.js**.  
+Criando soluções digitais práticas e escaláveis para pequenos negócios e MEIs.
 
 <br/>
 
-<h2 align="center">🚀 Projetos em Destaque</h2>
+## 🚀 Projetos em Destaque
 
-<p align="center">
-  <strong>Renova MEI</strong>: Plataforma para auxiliar MEIs na rotina fiscal e financeira.<br/>
-  🔗 <a href="https://renovamei.com.br" target="_blank">renovamei.com.br</a>
-</p>
+**Renova MEI**: Plataforma para auxiliar MEIs na rotina fiscal e financeira.  
+🔗 [renovamei.com.br](https://renovamei.com.br)
 
-<p align="center">
-  <strong>ADS VANTAGE</strong>: Core de CRM focado em gestão e eficiência.
-</p>
+**ADS VANTAGE**: Core de CRM focado em gestão e eficiência.
 
 <br/>
 
-<h2 align="center">🧰 Tecnologias que mais utilizo</h2>
+## 🧰 Tecnologias que mais utilizo
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
