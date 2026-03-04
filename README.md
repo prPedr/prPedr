@@ -10,8 +10,6 @@ Criando soluções digitais práticas e escaláveis para pequenos negócios e ME
 **Renova MEI**: Plataforma para auxiliar MEIs na rotina fiscal e financeira.  
 🔗 [renovamei.com.br](https://renovamei.com.br)
 
-**ADS VANTAGE**: Core de CRM focado em gestão e eficiência.
-
 <br/>
 
 ## 🧰 Tecnologias que mais utilizo
