@@ -28,8 +28,8 @@ Criando soluções digitais práticas e escaláveis, com foco em otimizar a roti
 ## 📊 Estatísticas
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prPedr&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prPedr&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prPedr&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=388BFD" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prPedr&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </p>
 
 ## 🌐 Contato
