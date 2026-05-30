@@ -18,7 +18,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.main.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: prPedr
           base: activity, repositories, metadata
           config_timezone: America/Sao_Paulo
           plugin_languages: yes
@@ -31,7 +32,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: prPedr
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
