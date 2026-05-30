@@ -1,0 +1,42 @@
+name: Metrics
+
+on:
+  schedule:
+    # Atualiza todo dia à meia-noite
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Gerar Card Principal
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.main.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: activity, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          output_action: commit
+          committer_branch: output
+          theme: dark
+
+      - name: Gerar Calendario Isometrico
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          output_action: commit
+          committer_branch: output
+          theme: dark
