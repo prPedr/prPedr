@@ -1,63 +1,37 @@
 # 👋 Olá, eu sou o Pedro
 
-Desenvolvedor **Full-Stack** com foco em **TypeScript** e **Node.js**.  
-Criando soluções digitais práticas e escaláveis para pequenos negócios e MEIs.
+**Desenvolvedor Full-Stack | TypeScript • Node.js • Go**
 
-<br/>
+Criando soluções digitais práticas e escaláveis, com foco em otimizar a rotina de pequenos negócios e microempreendedores.
+
+---
 
 ## 🚀 Projetos em Destaque
 
-**Renova MEI**: Plataforma para auxiliar MEIs na rotina fiscal e financeira.  
-🔗 [renovamei.com.br](https://renovamei.com.br)
-🔗 [appowl.com.br](https://appowl.com.br)
+* **[Renova MEI](https://renovamei.com.br)** — Plataforma completa para auxiliar MEIs na rotina fiscal e financeira.
+* **[AppOwl](https://appowl.com.br)** — Soluções e integrações.
 
-<br/>
+## 💻 Stack Tecnológico
 
-## 🧰 Tecnologias que mais utilizo
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-</div>
-
-<br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ## 💡 Sobre mim
 
-- ⚙️ **Produto principal:** Renova MEI — solução full-stack voltada para microempreendedores.
-- 🧠 **Atuação:** Desenvolvimento Full-Stack, da modelagem do banco ao frontend com React.
-- 🚀 **Foco técnico:** APIs REST, TypeScript, PostgreSQL e arquiteturas escaláveis.
-- 🌱 **Interesses:** Go, Python e a evolução de produtos SaaS no mercado global.
+- ⚙️ **Foco Atual:** Desenvolvimento de ponta a ponta do Renova MEI.
+- 🧠 **Arquitetura:** Priorizo APIs REST enxutas, módulos nativos e arquiteturas escaláveis.
+- 🌱 **Evolução:** Expandindo a stack com **Go (Golang)** para criar ferramentas de automação e otimizar infraestruturas.
 
-<br/>
+## 📊 Estatísticas
 
-<h2 align="center">📊 Estatísticas</h2>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prPedr&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prPedr&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=prPedr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prPedr&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
-<br/>
-
-<h2 align="center">🌐 Onde me encontrar</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/pedro-rodrigues-4b1267217" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p align="left">
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prPedr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prPedr&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-rodrigues-4b1267217)
