@@ -9,7 +9,7 @@ Criando soluções digitais práticas e escaláveis, com foco em otimizar a roti
 ## Projetos em Destaque
 
 * **[Renova MEI](https://renovamei.com.br)** — Plataforma completa para auxiliar MEIs na rotina fiscal e financeira.
-* **[AppOwl](https://appowl.com.br)** — Soluções e integrações.
+* **[Ferramenta de PDFs](https://appowl.com.br)** — Utilitário prático para manipulação, processamento e gerenciamento eficiente de arquivos PDF.
 
 ## Stack Tecnológico
 
@@ -17,7 +17,6 @@ Criando soluções digitais práticas e escaláveis, com foco em otimizar a roti
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ### Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
