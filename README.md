@@ -9,7 +9,7 @@ Criando soluções digitais práticas e escaláveis, com foco em otimizar a roti
 ## Projetos em Destaque
 
 * **[Renova MEI](https://renovamei.com.br)** — Plataforma completa para auxiliar MEIs na rotina fiscal e financeira.
-* **[Ferramenta de PDFs](https://appowl.com.br)** — Utilitário prático para manipulação, processamento e gerenciamento eficiente de arquivos PDF.
+* **[App OWL](https://appowl.com.br)** — Utilitário prático para manipulação, processamento e gerenciamento eficiente de arquivos PDF.
 
 ## Stack Tecnológico
 
