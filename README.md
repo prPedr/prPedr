@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro
 
-**Desenvolvedor Full-Stack | TypeScript • Node.js • Go**
+**Desenvolvedor Full-Stack | TypeScript • Node.js • Go • Go**
 
 Criando soluções digitais práticas e escaláveis, com foco em otimizar a rotina de pequenos negócios e microempreendedores.
 
